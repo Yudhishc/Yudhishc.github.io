@@ -14,10 +14,11 @@ h1{
   font-size: 2rem;
   color: #e2dbdb ;
   transform: rotate(-16deg);
+  
 }
 
 h6{
-  font-size: 30px;
+  font-size: 17px;
   color: #e2dbdb;
 }
 
@@ -32,7 +33,7 @@ hr {
 }
 
 .buffer {
-  height: 9rem;
+  height: 8rem;
 }
 
 /* .buffer1 {
